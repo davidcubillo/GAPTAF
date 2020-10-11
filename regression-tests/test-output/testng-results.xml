@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="10525" started-at="2020-10-11T23:35:54Z" finished-at="2020-10-11T23:36:04Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="10525" started-at="2020-10-11T23:35:54Z" finished-at="2020-10-11T23:36:04Z">
+      <class name="com.framework.tests.ProductOverviewTests">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:com.framework.tests.ProductOverviewTests@3aefe5e5]" name="beforeSuite" is-config="true" duration-ms="3555" started-at="2020-10-11T23:35:50Z" finished-at="2020-10-11T23:35:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="productOverviewTest()[pri:0, instance:com.framework.tests.ProductOverviewTests@3aefe5e5]" name="productOverviewTest" duration-ms="10511" started-at="2020-10-11T23:35:54Z" finished-at="2020-10-11T23:36:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- productOverviewTest -->
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:com.framework.tests.ProductOverviewTests@3aefe5e5]" name="afterSuite" is-config="true" duration-ms="606" started-at="2020-10-11T23:36:04Z" finished-at="2020-10-11T23:36:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- com.framework.tests.ProductOverviewTests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
